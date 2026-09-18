@@ -22,7 +22,7 @@ repository               : "adklutse/adklutse.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # Make sure your image is named profile.png and placed in the images folder
+  avatar           : "Klutske_Adelaide.jpg" # Make sure your image is named profile.png and placed in the images folder
   name             : "Adelaide Delali Klutse"
   pronouns         : "she/her/hers"  
   bio              : "Ph.D. Candidate in Human Development and Family Studies. Founder, The Family Life Education Hub-Ghana."
