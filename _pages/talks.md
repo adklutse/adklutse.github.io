@@ -1,6 +1,6 @@
 
 ---
-layout: archive
+layout: single
 title: "Conference Presentations"
 permalink: /talks/
 author_profile: true
