@@ -9,24 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-📄 **[Download CV (PDF)](/files/Adelaide Klutse_CV.pdf)** *(Upload your `Adelaide_Klutse_CV.pdf` file into the `files/` folder in your repository to activate this download link)*
-
----
-## Contact Information
-
-**Adelaide Delali Klutse, M.S., CFLE**  
-Department of Human Development and Family Studies  
-The Pennsylvania State University  
-115 Health and Human Development Building  
-221 E. College Avenue, State College, PA 16801  
-**Email:** adklutse@psu.edu  
-
----
-
-## Interest Statement
-
-Human Development and Family Studies doctoral candidate investigating the associations between family context and parent and child well-being across key developmental transitions. Passionate about translating research into practice and fostering inclusive higher education environments. Actively preparing for a tenure-track career integrating community engagement, research, and student-centered teaching.
-
 ---
 
 ## Education
@@ -189,3 +171,6 @@ Human Development and Family Studies doctoral candidate investigating the associ
 * International Society for the Study of Behavioral Development (ISSBD)
 * International Pediatric Sleep Association (IPSA)
 * International Congress of Infant Studies (ICIS)
+
+
+📄 **[Download CV (PDF)](/files/Adelaide Klutse_CV.pdf)** 
