@@ -8,8 +8,6 @@ redirect_from:
   - /conferences/
 ---
 
-{% include base_path %}
-
 ## National Council on Family Relations (NCFR)
 
 * **Klutse, A.D.** & Teti, D. M. (2026).  
