@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Human Development and Family Studies doctoral candidate investigating the associations between family context and parent and child well-being across key developmental transitions.
+I am a Human Development and Family Studies doctoral candidate at the Pennsylvania State University. My work investigates the associations between family context and parent and child well-being across key developmental transitions. To do this I use a combination of data sources including observational data, data from actigraphy and parent self-reports to assess levels of household chaos, coparenting and parenting quality, sleep, screen use and family socio-economic status as predictors of parent and child outcomes. I look forward to advancing my career by continuing to engage in research as a tenure-track professor in a reputable institution. 
 ## Research Interests
 Parent well-being,
 Child well-being,
