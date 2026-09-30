@@ -12,7 +12,6 @@ redirect_from:
 📄 **[Download CV (PDF)](/files/Adelaide Klutse_CV.pdf)** *(Upload your `Adelaide_Klutse_CV.pdf` file into the `files/` folder in your repository to activate this download link)*
 
 ---
-
 ## Contact Information
 
 **Adelaide Delali Klutse, M.S., CFLE**  
