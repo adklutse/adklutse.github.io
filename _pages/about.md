@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 Human Development and Family Studies doctoral candidate investigating the associations between family context and parent and child well-being across key developmental transitions.
-
 ## Research Interests
 Parent well-being,
 Child well-being,
@@ -15,7 +14,6 @@ Coparenting,
 Parenting,
 Household Chaos,
 Family media/tech engagement.
-
 ## Education
 
 * **Ph.D. in Human Development and Family Studies**  
