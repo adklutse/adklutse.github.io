@@ -1,11 +1,8 @@
-
 ---
 layout: single
 title: "Conference Presentations"
 permalink: /talks/
 author_profile: true
-redirect_from:
-  - /conferences/
 ---
 
 ## National Council on Family Relations (NCFR)
