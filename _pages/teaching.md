@@ -17,7 +17,7 @@ author_profile: true
 ### Graduate Teaching Assistant
 * **HDFS 416: Professional Development and Preparation for Internship Experience**  
   Department of Human Development and Family Studies  
-  `Fall 2022 – Present`
+  `Fall 2022`
 
 * **HDFS 229: Introduction to Child Development**  
   Department of Human Development and Family Studies  
